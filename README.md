@@ -29,8 +29,9 @@ _R1_
 <img width="736" height="548" alt="image" src="https://github.com/user-attachments/assets/6f71d47d-f403-41db-bfda-f2213807af0c" />   
 _R2_  
 <img width="514" height="444" alt="image" src="https://github.com/user-attachments/assets/5c49ca2f-4758-40d7-b1e9-1747db1d0dd1" />  
-<img width="739" height="598" alt="image" src="https://github.com/user-attachments/assets/c66a4b3d-c979-4eca-9134-56cb986af1a0" />  
-  
+<img width="920" height="469" alt="image" src="https://github.com/user-attachments/assets/505ebafd-2cf0-45d0-9288-51dbe086de53" />    
+<img width="603" height="442" alt="image" src="https://github.com/user-attachments/assets/6cc81ca6-1847-4e25-aa3f-34565b30c1f7" />
+
 ## Настройка базовых параметров коммутаторов  
 _S1_  
 <img width="547" height="564" alt="image" src="https://github.com/user-attachments/assets/c821d2b7-0995-466b-8252-ddae14bf8e7b" />   
@@ -44,6 +45,14 @@ _S2_
 
 ## Настройка и проверка NAT для IPv4  
 
+<img width="755" height="336" alt="image" src="https://github.com/user-attachments/assets/c6cf480d-7db2-42d8-9c31-d846fb8f4074" />  
+<img width="506" height="243" alt="image" src="https://github.com/user-attachments/assets/42106a12-b51d-4638-bf79-92b667bea576" />  
+<img width="638" height="118" alt="image" src="https://github.com/user-attachments/assets/9c39e2ab-996f-4a6f-882b-8729354d8c46" />  
+
+_Во что был транслирован внутренний локальный адрес PC-B?_  
+**209.165.200.1**   
+_Какой тип адреса NAT является переведенным адресом?_  
+**
 
 
 
