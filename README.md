@@ -23,14 +23,15 @@ PC-B | NIC | 192.168.1.3 | 255.255.255.0
 * Настройка и проверка PAT для IPv4
 * Настройка и проверка статического NAT для IPv4  
 
-## Базовая настройка маршрутизаторов  
+## Базовая настройка маршрутизаторов   
+
 _R1_  
-<img width="516" height="534" alt="image" src="https://github.com/user-attachments/assets/540e2c79-13d2-4bb6-b94e-433b1d1cb00c" />  
-<img width="736" height="548" alt="image" src="https://github.com/user-attachments/assets/6f71d47d-f403-41db-bfda-f2213807af0c" />   
+<img width="533" height="505" alt="image" src="https://github.com/user-attachments/assets/1c160b5e-5ea7-4d46-a64c-039612d4fa59" />  
+<img width="776" height="782" alt="image" src="https://github.com/user-attachments/assets/56f49518-a54d-4dd1-909f-99570d17c933" />  
+  
 _R2_  
-<img width="514" height="444" alt="image" src="https://github.com/user-attachments/assets/5c49ca2f-4758-40d7-b1e9-1747db1d0dd1" />  
-<img width="920" height="469" alt="image" src="https://github.com/user-attachments/assets/505ebafd-2cf0-45d0-9288-51dbe086de53" />    
-<img width="603" height="442" alt="image" src="https://github.com/user-attachments/assets/6cc81ca6-1847-4e25-aa3f-34565b30c1f7" />
+<img width="538" height="521" alt="image" src="https://github.com/user-attachments/assets/574fd221-d474-4573-b251-c538e9a75109" />  
+<img width="753" height="716" alt="image" src="https://github.com/user-attachments/assets/5f4521ce-72b5-4eb2-9695-93e46296a1eb" />  
 
 ## Настройка базовых параметров коммутаторов  
 _S1_  
@@ -45,14 +46,23 @@ _S2_
 
 ## Настройка и проверка NAT для IPv4  
 
-<img width="755" height="336" alt="image" src="https://github.com/user-attachments/assets/c6cf480d-7db2-42d8-9c31-d846fb8f4074" />  
-<img width="506" height="243" alt="image" src="https://github.com/user-attachments/assets/42106a12-b51d-4638-bf79-92b667bea576" />  
-<img width="638" height="118" alt="image" src="https://github.com/user-attachments/assets/9c39e2ab-996f-4a6f-882b-8729354d8c46" />  
-
+<img width="756" height="402" alt="image" src="https://github.com/user-attachments/assets/e903f939-6f87-4c8e-9df0-bdfc52cc8de7" />  
+<img width="538" height="298" alt="image" src="https://github.com/user-attachments/assets/7523a4f2-300b-4cc8-b840-c93344f948d1" />  
+ 
 _Во что был транслирован внутренний локальный адрес PC-B?_  
-**209.165.200.1**   
+**209.165.200.226**   
 _Какой тип адреса NAT является переведенным адресом?_  
-**
+**inside global**  
+
+<img width="622" height="140" alt="image" src="https://github.com/user-attachments/assets/ea803a5b-f916-499d-8b4d-a6b5a7b212ab" />  
+<img width="698" height="418" alt="image" src="https://github.com/user-attachments/assets/9b5a9096-d1fe-47c9-b69e-fca455b1aa22" />  
+<img width="621" height="240" alt="image" src="https://github.com/user-attachments/assets/a8fd0297-d9d5-47e9-a229-e5fed0b6727f" />    
+<img width="579" height="120" alt="image" src="https://github.com/user-attachments/assets/cf318cf1-b63f-46e4-bbdb-04fa4abebc0b" />   
+
+
+
+
+ 
 
 
 
